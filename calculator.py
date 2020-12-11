@@ -5,3 +5,6 @@ class Calculator:
 
     def division(self, a: int, b: int):
         return a / b
+
+    def test(self):
+        print("Test")
